@@ -1,4 +1,4 @@
-# ws-compare
+# rust-go-java-poc
 Three, functionally similar web services, written in Java, Go, and Rust.
 
   The main motivation for writing these three simple web services, is to compare the three languages, Java, Go, and Rust.
